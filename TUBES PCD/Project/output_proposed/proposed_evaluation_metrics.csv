@@ -1,0 +1,3 @@
+Model,Filename,IoU,Precision,Recall,Dice,Time_sec
+Metode Usulan (Full Hybrid),gymnas_2.png,,,,,0.323490993000064
+Metode Usulan (Full Hybrid),hafiz_1.jpg,,,,,0.1583580300000449

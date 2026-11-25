@@ -1,0 +1,3 @@
+Model,Filename,IoU,Precision,Recall,Dice,Time_sec
+Ablasi 1 (Tanpa Sobel),gymnas_2.png,,,,,0.1880719369999042
+Ablasi 1 (Tanpa Sobel),hafiz_1.jpg,,,,,0.27998282099997596

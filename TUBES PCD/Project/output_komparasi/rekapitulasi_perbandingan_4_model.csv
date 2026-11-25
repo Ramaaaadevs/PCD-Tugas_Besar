@@ -1,0 +1,5 @@
+Model,Jumlah Citra,Mean IoU,Mean Precision,Mean Recall,Mean Dice,Rata-rata Waktu (ms)
+Baseline (HSV),2,,,,,74.10463450003135
+Metode Usulan (Full Hybrid),2,,,,,240.92451150005445
+Ablasi 1 (Tanpa Sobel),2,,,,,234.02737899994008
+Ablasi 2 (Tanpa Morfologi & Feathering),2,,,,,243.7254565000444

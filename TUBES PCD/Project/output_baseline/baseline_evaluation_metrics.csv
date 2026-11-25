@@ -1,0 +1,3 @@
+Model,Filename,IoU,Precision,Recall,Dice,Time_sec
+Baseline (HSV),gymnas_2.png,,,,,0.07332320700004402
+Baseline (HSV),hafiz_1.jpg,,,,,0.07488606200001868
